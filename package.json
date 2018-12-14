@@ -1,0 +1,20 @@
+{
+  "author": {
+    "name": "501859275@gmail.com"
+  },
+  "dependencies": {},
+  "description": "wepy框架px转rpx插件",
+  "devDependencies": {},
+  "directories": {},
+  "keywords": [
+    "rpx",
+    "wepy"
+  ],
+  "license": "MIT",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "version": "1.0.0"
+}
