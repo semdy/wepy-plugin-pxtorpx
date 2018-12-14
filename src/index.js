@@ -16,4 +16,4 @@ PxToRpx.prototype.apply = function apply(op) {
   op.next()
 }
 
-moudle.export = PxToRpx
+exports.default = PxToRpx
